@@ -30,10 +30,10 @@ My name is Natalia. I am a software tester.</br>
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="images/cardiff.jpg"></td><td valign="middle">Cardiff Metropolitan University</br>Software Engeneering</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="images/prakticum.jpg"></td><td valign="middle">Yandex School 
+    <td width="30%" valign="bottom"><img src="images/cardiff.jpg"></td><td width="30%" valign="middle">Cardiff Metropolitan University</br>Software Engeneering</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/prakticum.jpg"></td><td width="30%" valign="middle">Yandex School 
 of Data Analysis</br>QA Engineer professional training course</td>
-    <tr><td width="30%" valign="bottom"><img src="images/qa-guru80.png"></td><td valign="middle">QA-GURU</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/qa-guru80.png"></td><td width="30%" valign="middle">QA-GURU</td></tr>
    </tr>
   </table>
   </br>
