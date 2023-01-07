@@ -1,8 +1,9 @@
 ### Hello! :cherry_blossom:
-My name is Natalia. I am a software tester.</br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=37&pause=1000&width=435&lines=My+name+is+Natalia.+;I+am+a+software+tester)](https://git.io/typing-svg)
 
 
-**About me**
+
+### <a>About me</a>
 
 - 💼 I'm a QA Engineer
 - 🌱 I’m currently learning Python
@@ -10,7 +11,7 @@ My name is Natalia. I am a software tester.</br>
 
 
 
-### <a name="Languages">Languages and Tools:</a>
+###  <a>Tools:</a>
 <p align="center">
 
 <img width="6%" title="Python" src="logo/python.svg">
@@ -27,7 +28,7 @@ My name is Natalia. I am a software tester.</br>
 <img width="6%" title="Browserstack" src="logo/Browserstack.svg"> 
 </p>
 
-
+###  <a> Education <a>
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="images/cardiff.jpg"></td><td valign="middle">Cardiff Metropolitan University</br>Software Engeneering</td></tr>
@@ -40,17 +41,17 @@ of Data Analysis</br>QA Engineer professional training course</td>
   
   
 
-## UI Testing
+###  UI Testing
 
 - [x] Page Object
 - [x] Selene
 - [x] Allure reports
 
 
-## REST API Testing
+###  REST API Testing
 
 - [x] Schemas
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat1905)](https://github.com/anuraghazra/github-readme-stats)
 
 
