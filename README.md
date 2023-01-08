@@ -1,6 +1,5 @@
-### Hello! :cherry_blossom:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=37&pause=1000&width=435&lines=My+name+is+Natalia.+;I+am+a+software+tester)](https://git.io/typing-svg)
-
+### Hello, I'm Natalia! :cherry_blossom:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=37&pause=1000&width=435&lines=I'm+a+software+tester)](https://git.io/typing-svg)
 
 
 ### <a>About me</a>
