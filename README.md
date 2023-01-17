@@ -64,6 +64,5 @@ of Data Analysis</br>QA Engineer professional training course</td>
 
 - [x] Schemas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat1905)](https://github.com/anuraghazra/github-readme-stats)
 
 
