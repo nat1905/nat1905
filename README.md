@@ -1,13 +1,26 @@
-### Hello, I'm Natalia! :cherry_blossom:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/TKk8mayzb9et4mb6Ut/giphy.gif" width="100"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=35&pause=1000&multiline=true&width=435&lines=I'm+a+software+tester)](https://git.io/typing-svg)
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/natalia-ershova-qa-tester/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/tasha7777777">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>  
+</div>
+
+### Hello, I'm Natalia! :cherry_blossom:
 
 
 ### <a>About me</a>
 
 - 💼 I'm a QA Engineer
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Telegram https://t.me/tasha7777777
-
 
 
 ###  <a>Tools:</a>
