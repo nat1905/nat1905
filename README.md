@@ -20,7 +20,9 @@
 ### <a>About me</a>
 
 - 💼 I'm a QA Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I like testing software and making it more user-friendly and comfortable for a user.
+- 🌱 I develop auto-tests in Python.
+- 🌱 My main testing project is a fintech project for working with bonds and securities.
 
 
 ###  <a>Tools:</a>
